@@ -1,6 +1,6 @@
 const express = require('express');
 const colors = require('colors');
-const moragan = require('morgan');
+const moragan = require('morgan') ;
 const dotenv = require('dotenv');
 
 //dotenv config
